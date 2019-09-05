@@ -8,6 +8,6 @@ class Author
   end 
   
   def posts
-    @posts << self.Post 
+    @posts << self.posts  
   end 
 end 
