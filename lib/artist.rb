@@ -9,7 +9,7 @@ class Artist
   end 
   
   def songs
-    self 
+    self.split(",")
   end 
   
 end 
