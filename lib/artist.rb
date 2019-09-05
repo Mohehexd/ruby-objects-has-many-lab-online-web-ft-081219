@@ -9,7 +9,7 @@ class Artist
   end 
   
   def songs
-    @@all 
+    Songs  
   end 
   
 end 
