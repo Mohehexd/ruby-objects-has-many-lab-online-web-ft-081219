@@ -10,7 +10,7 @@ class Author
     Post.all.select {|posts| posts.author == self} #Has Many Posts 
   end 
   
-  def add_post
+  def add_post(posts)
     
   end 
   
