@@ -7,6 +7,6 @@ class Author
   end 
   
   def posts
-    self.split  
+    Post  
   end 
 end 
