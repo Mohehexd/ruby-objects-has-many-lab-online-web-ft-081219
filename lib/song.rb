@@ -12,7 +12,7 @@ class Song
     @@all 
   end 
   
-  def 
+  def author_name 
   end 
   
 end 
