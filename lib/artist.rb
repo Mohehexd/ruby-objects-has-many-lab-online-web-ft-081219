@@ -9,7 +9,8 @@ class Artist
   end 
   
   def songs
-    Songs  
+    Songs 
+    binding.pry 
   end 
   
 end 
