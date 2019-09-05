@@ -9,7 +9,7 @@ class Artist
   end 
   
   def songs
-    self = @@all 
+    self 
   end 
   
 end 
