@@ -6,11 +6,10 @@ class Artist
   
   def initialize(name)
     @name = name 
-    @songs = [] 
   end 
   
   def songs
-    @songs << Song.self 
+    @songs 
   end 
   
 end 
